@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Shareviewer
+Comment=Shareviewer application
+Categories=GNOME;Utility;
+Exec=shareviewer
+Icon=shareviewer
+Terminal=false
+Type=Application

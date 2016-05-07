@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: shareviewer
+Version: 0.1
+Summary: an utility for finding network share
+Home-page: UNKNOWN
+Author: Sardeep Lakhera
+Author-email: sardeeplakhera@gmail.com
+License: GPL-3
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: gi.repository.GObject
+Requires: gi.repository.Gdk
+Requires: gi.repository.GdkPixbuf
+Requires: gi.repository.Gio
+Requires: gi.repository.Gtk
+Provides: shareviewer
+Provides: shareviewer_lib
